@@ -1,3 +1,4 @@
 *.obj
 *.log
 debug
+*.orig

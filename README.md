@@ -9,3 +9,5 @@ How to deploy it
 
 ## How To Contribute
 Please fork this repository and then issue Pull Requests for review.
+###Copyright
+2017 TechExcel Inc

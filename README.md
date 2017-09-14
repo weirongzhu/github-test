@@ -9,3 +9,6 @@ How to deploy it
 
 ## How To Contribute
 Tell 
+
+###Copyright
+2017 TechExcel Inc.

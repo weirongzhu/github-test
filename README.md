@@ -8,4 +8,4 @@ Please add a purpose
 How to deploy it
 
 ## How To Contribute
-Tell 
+Please fork this repository and then issue Pull Requests for review.
